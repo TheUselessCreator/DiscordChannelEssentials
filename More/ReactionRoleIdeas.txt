@@ -1,0 +1,11 @@
+### Create reaction roles for members to pick their interests or roles.
+1. **🎮 Gaming** – Get access to gaming-related channels.
+2. **🎨 Art** – Join the art discussions and showcase.
+3. **📚 Books** – Participate in book discussions and recommendations.
+4. **🎶 Music** – Share and discuss music with other members.
+5. **💻 Tech Enthusiast** – Engage in technology and coding conversations.
+6. **🌍 Global Citizen** – Join discussions about world events and international topics.
+7. **🎬 Movie Buff** – Access movie-related channels for discussions.
+8. **🎤 Event Organizer** – Get involved in planning and hosting server events.
+9. **🛡️ Moderator** – For team members who help keep the community safe.
+10. **🤖 Bot Manager** – Members who manage bot interactions and automation.
