@@ -1,0 +1,18 @@
+{
+  "title": "Welcome to [Server Name]!",
+  "description": "We're excited to have you here! Be sure to check out our channels and engage with the community. Don't forget to read the rules!",
+  "color": 5814783,
+  "fields": [
+    {
+      "name": "Channels",
+      "value": "#general, #announcements, #events, #tech-talk"
+    },
+    {
+      "name": "Important Links",
+      "value": "[Website](https://example.com) | [Rules](#rules)"
+    }
+  ],
+  "footer": {
+    "text": "Enjoy your time in the server!"
+  }
+}
