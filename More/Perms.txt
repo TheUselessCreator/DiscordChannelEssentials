@@ -1,0 +1,12 @@
+### Basic Role Permissions:
+- **Owner**: Full permissions (manage server, roles, channels, integrations, etc.)
+- **Administrator**: Nearly full permissions, except deleting the server.
+- **Moderator**: Manage messages, kick/ban members, and manage channels.
+- **Bot Manager**: Manage bots, bot permissions, and bot commands.
+- **VIP**: Access to exclusive channels and early access to announcements.
+
+### General Member Permissions:
+- **Read/Send Messages**
+- **Join/Leave Voice Channels**
+- **React to Messages**
+- **Change Nickname**
