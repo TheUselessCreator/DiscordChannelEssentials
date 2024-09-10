@@ -1,0 +1,8 @@
+- `/kick [user]`: Kick a member from the server.
+- `/ban [user] [reason]`: Ban a member with a specific reason.
+- `/mute [user] [duration]`: Temporarily mute a member.
+- `/unmute [user]`: Unmute a member.
+- `/poll [question] [options]`: Create a poll with options.
+- `/clear [number]`: Clear a certain number of messages in a channel.
+- `/slowmode [seconds]`: Set a slowmode delay for messages in the current channel.
+- `/userinfo [user]`: Display user information, including join date and roles.
