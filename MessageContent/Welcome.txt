@@ -1,0 +1,31 @@
+Here are some examples of welcome messages you might use for new members joining your Discord server. You can customize these to fit your server’s theme and tone:
+
+---
+
+**1.**  
+🎉 **Welcome to [Server Name], [Username]!** 🎉  
+We're thrilled to have you here. Feel free to introduce yourself in the **#introductions** channel and check out our rules in **#rules**. If you have any questions, don’t hesitate to ask in **#help**. Enjoy your stay!
+
+---
+
+**2.**  
+👋 **Hello [Username]!** 👋  
+Welcome to the [Server Name] community! We’re excited to meet you. Don’t forget to take a look at our **#welcome** and **#announcements** channels for important updates. Have fun exploring!
+
+---
+
+**3.**  
+🌟 **Welcome aboard, [Username]!** 🌟  
+We’re so glad you’ve joined us at [Server Name]. Start by saying hi in **#general-chat** and check out our **#server-rules** to get acquainted with our community guidelines. If you need anything, just let us know!
+
+---
+
+**4.**  
+🎊 **Welcome, [Username]!** 🎊  
+You’ve just joined [Server Name], where amazing things happen! Dive into **#welcome** to get started and explore our various channels. If you have any questions, feel free to reach out to our moderators. Enjoy your time here!
+
+---
+
+**5.**  
+🚀 **Greetings, [Username]!** 🚀  
+Welcome to [Server Name]! We’re excited to have you in our community. Please read through **#rules** and **#announcements** to stay updated. Make yourself at home and don’t hesitate to jump into any conversation!
